@@ -16,7 +16,7 @@ body {
     margin-bottom: 50px;
     border-radius: 16px;
     background-color: rgba(0, 0, 0, 0.5) ;
-    background-image: url("/images/Banner\ Image.png");
+    background-image: url(../images/Banner\ Image.png);
     /* background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%); */
     background-position: center;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ body {
     width: 50%;
     height: 600px;
     display: inline-block;
-    background-image: url("/images/2024.png");
+    background-image: url("../images/2024.png");
     background-position: center;
     background-repeat: no-repeat;
    
